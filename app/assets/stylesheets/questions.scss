@@ -1,0 +1,31 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$gray: #F4F4F4;
+
+div {
+  text-align: left;
+  font-size: 20px;
+
+}
+
+body {
+  background: $gray;
+}
+
+#response {
+  background-color: rgba(247,247,39,0.4);
+  background-size: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+
+}
